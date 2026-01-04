@@ -72,8 +72,17 @@ PDFs shared here are used strictly for learning/reference
 
 Clone the repository:
 
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/BigDataNeoNitin/Notes
+if you want add anything --create new barnch dev
+git checkout -b dev
+--
+add your new files and notes
 
+git add .
+git commit -m "text"
+git push -u origin dev
+
+raised the PR
 
 Browse topics by folder
 
